@@ -2,14 +2,15 @@
 @import "../vendor/bootstrap/scss/bootstrap.scss";
 
 @import "global";
-@import "fonts"; 
+@import "fonts";
 @import "navbar";
 
-@import "pages/home"; 
-@import "pages/details"; 
+@import "pages/home";
+@import "pages/details";
+@import "pages/cart";
 
-@import "components/categories"; 
+@import "components/categories";
 @import "components/products";
 @import "components/breadcrumbs";
 
- @import "transitions/slide-fade"; 
+@import "transitions/slide-fade";
